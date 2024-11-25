@@ -1,6 +1,6 @@
-create database myfinal;
+create database usersInformation;
 
-use myfinal;
+use usersInformation;
 
 -- instructor 
 
